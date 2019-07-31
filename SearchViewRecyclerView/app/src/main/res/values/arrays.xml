@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<array name="item_title">
+		<item>Amazon</item>
+		<item>Android</item>
+		<item>Apple</item>
+		<item>Behance</item>
+		<item>Blogger</item>
+		<item>Dribbble</item>
+		<item>Facebook</item>
+		<item>Github</item>
+		<item>Html5</item>
+		<item>Instagram</item>
+		<item>Linkedin</item>
+		<item>Pinterest</item>
+		<item>Skype</item>
+		<item>Tumblr</item>
+		<item>Wordpress</item>
+	</array>
+	<array name="item_image">
+		<item>@drawable/amazon</item>
+		<item>@drawable/android</item>
+		<item>@drawable/apple</item>
+		<item>@drawable/behance</item>
+		<item>@drawable/blogger</item>
+		<item>@drawable/dribbble</item>
+		<item>@drawable/facebook</item>
+		<item>@drawable/github</item>
+		<item>@drawable/html5</item>
+		<item>@drawable/instagram</item>
+		<item>@drawable/linkedin</item>
+		<item>@drawable/pinterest</item>
+		<item>@drawable/skype</item>
+		<item>@drawable/tumblr</item>
+		<item>@drawable/wordpress</item>
+	</array>
+</resources>
